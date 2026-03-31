@@ -3,3 +3,7 @@ this is the 2nd line
 this is the 3rd line
 I changed this in branch test2
 fix issue 101
+this is the 4th line
+this is the 5th line
+this is the 6th line
+this is the 7th line
