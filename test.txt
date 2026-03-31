@@ -10,3 +10,4 @@ this is the 7th line
 this is the 8th line
 fix issue 102
 this is the 9th line
+this is the 10th line
