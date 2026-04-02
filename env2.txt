@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is env2.txt later
+=======
+This is env2.txt
+>>>>>>> 70bcbe1 (add env2.txt)
