@@ -14,6 +14,4 @@ this is the 9th line
 this is the 10th line
 The 2nd change in branch test2
 11th line
-12th line
-fix issue 105
 13th line
